@@ -1,8 +1,7 @@
 Bartosz Wiśniewski
 University PJATK
-<<<<<<< HEAD
 
 
 hello from the branch
-=======
+
 :)
